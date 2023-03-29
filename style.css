@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(235, 247, 167);
+}
+
+.row{
+    text-align: center;
+}
+.hello{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
